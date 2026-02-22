@@ -1,5 +1,5 @@
-# 👋 Welcome To My Github Profile 👋
-
+# 👋 Welcome to My GitHub
+## Building software, learning constantly, and turning ideas into reality.
 <!--
 **Hakan-Kocaman/Hakan-Kocaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
